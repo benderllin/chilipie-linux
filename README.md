@@ -24,5 +24,5 @@ Easy-to-use **lubuntu** image for booting directly into **full-screen chromium**
 
 ## Acknowledgements
 
-This project is a grateful recipient of [Futurice Chilipie kiok project](https://github.com/futurice/chilipie-kiosk). Thank you. 🙇
+This project is a grateful recipient of [Futurice Chilipie kiosk project](https://github.com/futurice/chilipie-kiosk). Thank you. 🙇
 
